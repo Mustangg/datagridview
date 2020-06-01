@@ -1,0 +1,10 @@
+C:\Users\пользователь\source\repos\qwer\qwer\bin\Debug\qwer.exe.config
+C:\Users\пользователь\source\repos\qwer\qwer\bin\Debug\qwer.exe
+C:\Users\пользователь\source\repos\qwer\qwer\bin\Debug\qwer.pdb
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.Form1.resources
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.Properties.Resources.resources
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.csproj.GenerateResource.cache
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.exe
+C:\Users\пользователь\source\repos\qwer\qwer\obj\Debug\qwer.pdb
